@@ -27,7 +27,7 @@ public class Book {
     }
 
     public static Book fromString(String line) {
-        String[] parts = line.split("\\|");
+        String[] parts = line.split("\\|", -1);
         if (parts.length >= 2) {
             String title = parts[0];
             String author = parts[1];
