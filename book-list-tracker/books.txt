@@ -1,0 +1,2 @@
+The long walk|stephen king|/home/thanaphat/oose-mini-project/book-list-tracker/img/Bachman,_Long_Walk.jpg
+Dune|Frank Herbert|/home/thanaphat/oose-mini-project/book-list-tracker/img/dune_book.jpg
